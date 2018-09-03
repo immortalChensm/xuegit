@@ -6,5 +6,5 @@
  * Time: 20:39
  */
 
-echo 'Git is a version control system.
-Git is free software.';
+echo 'Git is a distributed version control system.
+Git is free software';
