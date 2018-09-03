@@ -17,7 +17,11 @@
         <entry file="file://$PROJECT_DIR$/readme.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
+<<<<<<< HEAD
               <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+=======
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+>>>>>>> featurel
             </state>
           </provider>
         </entry>
@@ -109,7 +113,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="4134000" />
+=======
+    <option name="totallyTimeSpent" value="4257000" />
+>>>>>>> featurel
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -291,6 +299,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/readme.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -326,5 +335,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> featurel
   </component>
 </project>
